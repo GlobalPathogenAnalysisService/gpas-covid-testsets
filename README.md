@@ -18,7 +18,7 @@ These are then processed are merged via the jupyter-notebook `create-coguk-18mar
 
 All the fastq files have been downloaded and put in the OCI object store in a bucket called `demo_samples`. To create the CSV files use the  jupyter-notebook `coguk-18mar21-dataset.ipynb`.
 
-A CSV looks like
+A CSV looks like and then needs to be uploaded to the SP3 headnode and named so it can be referenced using an absolute path.
 
 ```
 demo_samples,ERR5874574
