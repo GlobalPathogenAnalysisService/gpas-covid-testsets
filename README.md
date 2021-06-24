@@ -1,4 +1,4 @@
-# SARS-CoV testsets derived from all publicly available COG-UK sequences
+## SARS-CoV testsets derived from all publicly available COG-UK sequences
 
 We need a range of testsets 
 
@@ -18,7 +18,7 @@ curl "https://www.ebi.ac.uk/ena/portal/api/filereport?accession=PRJEB37886&resul
 
 Hence all of these data are public and are then processed and merged via the jupyter-notebook `create-coguk-dataset/create-cog-testset.ipynb` which creates a CSV file, `create-coguk-dataset/cog_dataset-20210624.csv.gz`.
 
-## Samples for the demo - 18 March 2021
+### Samples for the demo - 18 March 2021
 
 All samples from 18 March 2021, which was the first day that the B.1.617.2 / Delta variant was detected in the UK (in two Illumina samples). In total there were 2,107 samples, 2,013 Illumina and 94 Oxford Nanopore. The datasets for each are called e.g. `demo-18March2021-dataset/cog-testset-18March2021-2013samples-illumina.csv.gz`
 
@@ -34,7 +34,7 @@ demo_samples,ERR5874678
 demo_samples,ERR5875498
 ```
 
-## Genetically diverse testset
+### Genetically diverse testset
 
 To efficiently test the pipelines, we need a compact testset that contains as much genetic (and hence lineage) diversity as possible. An intial logic that does this is found in `genetically-diverse-dataset/create-testset-genetically-diverse.ipynb`.
 
