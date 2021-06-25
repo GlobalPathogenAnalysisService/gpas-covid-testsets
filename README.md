@@ -1,4 +1,4 @@
-## SARS-CoV testsets derived from all publicly available COG-UK sequences
+## SARS-CoV testsets 
 
 We need a range of testsets covering size, diversity and difficulty. The two main sources are 
 * the small set of samples sequenced by Oxford using both Oxford Nanopore and Illumina and ARTIC and SISPA protocols. (only ARTIC is supported at present in GPAS)
