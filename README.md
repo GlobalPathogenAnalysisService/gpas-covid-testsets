@@ -18,6 +18,8 @@ curl "https://www.ebi.ac.uk/ena/portal/api/filereport?accession=PRJEB37886&resul
 
 Hence all of these data are public and are then processed and merged via the jupyter-notebook `create-coguk-dataset/create-cog-testset.ipynb` which creates a CSV file, `create-coguk-dataset/cog_dataset-20210624.csv.gz`.
 
+
+
 ### Samples for the demo - 18 March 2021 (COGUK)
 
 All samples from 18 March 2021, which was the first day that the B.1.617.2 / Delta variant was detected in the UK (in two Illumina samples). In total there were 2,107 samples, 2,013 Illumina and 94 Oxford Nanopore. The datasets for each are called e.g. `demo-18March2021-dataset/cog-testset-18March2021-2013samples-illumina.csv.gz`
@@ -33,6 +35,14 @@ demo_samples,ERR5874574
 demo_samples,ERR5874678
 demo_samples,ERR5875498
 ```
+
+
+
+### MMM-Oxford 2x2 test set (ONT, Illumina, ARTIC and SISPA)
+
+A small sample set comprising cultured P.1, P.2, B.1.1.7 and B.1.351 along with predominantly B.1.1.7 clinical samples from late 2020 through to early 2021. Further information in the [notebook](mmm-2x2-truth/notebook.ipynb).
+
+
 
 ### Genetically diverse testset (COGUK)
 
