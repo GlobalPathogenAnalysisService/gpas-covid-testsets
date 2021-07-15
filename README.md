@@ -40,7 +40,7 @@ demo_samples,ERR5875498
 
 ### MMM-Oxford 2x2 test set (ONT, Illumina, ARTIC and SISPA)
 
-A small sample set comprising cultured P.1, P.2, B.1.1.7 and B.1.351 along with predominantly B.1.1.7 clinical samples from late 2020 through to early 2021. Further information in the [notebook](mmm-2x2-truth/notebook.ipynb).
+A small sample set comprising cultured P.1, P.2, B.1.1.7 and B.1.351 along with (predominantly B.1.1.7) clinical samples from late 2020 through early 2021. Further information in the [notebook](mmm-2x2-truth/notebook.ipynb).
 
 
 
