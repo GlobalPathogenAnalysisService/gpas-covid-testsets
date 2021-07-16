@@ -1,4 +1,4 @@
-name,class_,origin,sample_hash,platform,amplification,replicate,fastq_filename,cov20_pc,median_depth,pangolin_lineage,pangolin_version
+name,class_,origin,sample,platform,amplification,replicate,fastq_filename,cov20_pc,median_depth,pangolin_lineage,pangolin_version
 mmm-artic-ill-s24350-1,mmm-artic-ill,culture,s24350,ill,artic,1,mmm-artic-ill-s24350-1*.fastq.gz,99.77168949771689,8734,P.1,3.1.5
 mmm-artic-ill-s24350-2,mmm-artic-ill,culture,s24350,ill,artic,2,mmm-artic-ill-s24350-2*.fastq.gz,99.96978243352136,2474,P.1,3.1.5
 mmm-artic-ill-s24350-3,mmm-artic-ill,culture,s24350,ill,artic,3,mmm-artic-ill-s24350-3*.fastq.gz,99.96978243352136,7507,P.1,3.1.5
