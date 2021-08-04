@@ -1,0 +1,2 @@
+sample_name,pct_N_bases,pct_covered_bases,longest_no_N_run,num_aligned_reads,fasta,bam,qc_pass
+mmm-artic-ill-s11937-2,0.28,99.72,29821,327189,mmm-artic-ill-s11937-2.fasta,mmm-artic-ill-s11937-2.mapped.primertrimmed.sorted.bam,TRUE

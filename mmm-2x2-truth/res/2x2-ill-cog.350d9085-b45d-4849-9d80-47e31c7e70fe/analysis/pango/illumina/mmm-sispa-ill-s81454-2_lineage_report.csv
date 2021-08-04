@@ -1,0 +1,2 @@
+taxon,lineage,conflict,ambiguity_score,scorpio_call,scorpio_support,scorpio_conflict,version,pangolin_version,pangoLEARN_version,pango_version,status,note
+Consensus_mmm-sispa-ill-s81454-2.primertrimmed.consensus_threshold_0.75_quality_20,None,,,,,,PANGO-v1.2.36,3.1.7,2021-07-09,v1.2.36,fail,N_content:0.99

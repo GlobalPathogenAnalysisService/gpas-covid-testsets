@@ -1,0 +1,2 @@
+sample_name,pct_N_bases,pct_covered_bases,longest_no_N_run,num_aligned_reads,fasta,bam,qc_pass
+mmm-artic-ont-s17576-1,0.92,99.08,29303,77692,mmm-artic-ont-s17576-1.consensus.fasta,mmm-artic-ont-s17576-1.primertrimmed.rg.sorted.bam,TRUE

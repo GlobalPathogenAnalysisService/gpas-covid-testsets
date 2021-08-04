@@ -1,0 +1,2 @@
+sample_name,pct_N_bases,pct_covered_bases,longest_no_N_run,num_aligned_reads,fasta,bam,qc_pass
+mmm-sispa-ill-s12368-1,0.00,100.00,29903,2182408,mmm-sispa-ill-s12368-1.fasta,mmm-sispa-ill-s12368-1.mapped.primertrimmed.sorted.bam,TRUE

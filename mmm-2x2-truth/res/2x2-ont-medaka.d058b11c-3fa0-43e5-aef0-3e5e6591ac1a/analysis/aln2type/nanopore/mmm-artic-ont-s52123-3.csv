@@ -1,0 +1,2 @@
+sample_id,phe-label,unique-id,status,mutation-ref-calls,mutation-mixed-calls,mutation-calls,indel-ref-calls,indel-calls,no-calls,no-calls-deletion
+mmm-artic-ont-s52123-3/ARTIC/medaka,E484K,harbor-sprite,low-qc,0,0,0,0,0,1,0

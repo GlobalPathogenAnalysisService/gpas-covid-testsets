@@ -1,0 +1,3 @@
+sample_id,phe-label,unique-id,status,mutation-ref-calls,mutation-mixed-calls,mutation-calls,indel-ref-calls,indel-calls,no-calls,no-calls-deletion
+assembly,E484K,harbor-sprite,low-qc,0,0,0,0,0,1,0
+assembly,VOC-21FEB-02,unloved-crouton,low-qc,0,0,0,0,0,5,0

@@ -1,0 +1,2 @@
+taxon,lineage,conflict,ambiguity_score,scorpio_call,scorpio_support,scorpio_conflict,version,pangolin_version,pangoLEARN_version,pango_version,status,note
+GPAS_SP3|mmm-artic-ill-s67251-1_Consensus_mmm-artic-ill-s67251-1.primertrimmed.consensus_threshold_0.75_quality_20,B.1.1,0.0,0.985602953240361,,,,PLEARN-v1.2.36,3.1.7,2021-07-09,v1.2.36,passed_qc,

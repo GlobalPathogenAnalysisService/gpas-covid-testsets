@@ -1,0 +1,2 @@
+taxon,lineage,conflict,ambiguity_score,scorpio_call,scorpio_support,scorpio_conflict,version,pangolin_version,pangoLEARN_version,pango_version,status,note
+GPAS_SP3|mmm-sispa-ont-s59130-3_assembly,P.1,0.0,0.7240881184543156,Gamma (P.1-like),0.687500,0.000000,PLEARN-v1.2.36,3.1.7,2021-07-09,v1.2.36,passed_qc,scorpio call: Alt alleles 11; Ref alleles 0; Amb alleles 4; Oth alleles 1

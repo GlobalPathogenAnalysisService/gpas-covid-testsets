@@ -1,0 +1,2 @@
+sample_name,pct_N_bases,pct_covered_bases,longest_no_N_run,num_aligned_reads,fasta,bam,qc_pass
+phe-sispa-ill-s32219-1,0.10,99.88,29874,282128,phe-sispa-ill-s32219-1.fasta,phe-sispa-ill-s32219-1.mapped.primertrimmed.sorted.bam,TRUE

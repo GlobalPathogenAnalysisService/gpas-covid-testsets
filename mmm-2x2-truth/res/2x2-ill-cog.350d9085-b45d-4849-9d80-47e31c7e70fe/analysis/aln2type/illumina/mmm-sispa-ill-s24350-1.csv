@@ -1,0 +1,3 @@
+sample_id,phe-label,unique-id,status,mutation-ref-calls,mutation-mixed-calls,mutation-calls,indel-ref-calls,indel-calls,no-calls,no-calls-deletion
+Consensus_mmm-sispa-ill-s24350-1.primertrimmed.consensus_threshold_0.75_quality_20,E484K,harbor-sprite,confirmed,0,0,1,0,0,0,0
+Consensus_mmm-sispa-ill-s24350-1.primertrimmed.consensus_threshold_0.75_quality_20,VOC-21JAN-02,slinky-antennae,confirmed,0,0,14,0,2,0,0

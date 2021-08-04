@@ -1,0 +1,2 @@
+sample_id,phe-label,unique-id,status,mutation-ref-calls,mutation-mixed-calls,mutation-calls,indel-ref-calls,indel-calls,no-calls,no-calls-deletion
+Consensus_mmm-artic-ill-s48306-1.primertrimmed.consensus_threshold_0.75_quality_20,VOC-20DEC-01,denture-daughter,probable,0,3,9,0,2,1,0

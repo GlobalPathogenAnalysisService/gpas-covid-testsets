@@ -1,0 +1,2 @@
+taxon,lineage,conflict,ambiguity_score,scorpio_call,scorpio_support,scorpio_conflict,version,pangolin_version,pangoLEARN_version,pango_version,status,note
+GPAS_SP3|mmm-artic-ill-s16621-1_assembly,B.1.1.7,0.0,0.9992311427646487,Alpha (B.1.1.7-like),0.826100,0.043500,PLEARN-v1.2.36,3.1.7,2021-07-09,v1.2.36,passed_qc,scorpio call: Alt alleles 19; Ref alleles 1; Amb alleles 3; Oth alleles 0

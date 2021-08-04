@@ -1,0 +1,2 @@
+sample_name,pct_N_bases,pct_covered_bases,longest_no_N_run,num_aligned_reads,fasta,bam,qc_pass
+mmm-sispa-ont-s52247-2,78.38,22.57,1384,1508,mmm-sispa-ont-s52247-2.consensus.fasta,mmm-sispa-ont-s52247-2.primertrimmed.rg.sorted.bam,FALSE

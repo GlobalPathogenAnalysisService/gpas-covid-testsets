@@ -1,0 +1,4 @@
+sample_id,phe-label,unique-id,status,mutation-ref-calls,mutation-mixed-calls,mutation-calls,indel-ref-calls,indel-calls,no-calls,no-calls-deletion
+GPAS_SP3|mmm-artic-ill-s35910-2,VOC-20DEC-01,denture-daughter,confirmed,0,0,13,0,2,0,0
+GPAS_SP3|mmm-artic-ill-s35910-2,E484K,harbor-sprite,confirmed,0,0,1,0,0,0,0
+GPAS_SP3|mmm-artic-ill-s35910-2,VOC-21FEB-02,unloved-crouton,confirmed,0,0,5,0,0,0,0

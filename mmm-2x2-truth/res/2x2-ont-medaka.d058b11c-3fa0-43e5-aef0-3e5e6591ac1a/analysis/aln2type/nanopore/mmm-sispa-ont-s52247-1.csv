@@ -1,0 +1,13 @@
+sample_id,phe-label,unique-id,status,mutation-ref-calls,mutation-mixed-calls,mutation-calls,indel-ref-calls,indel-calls,no-calls,no-calls-deletion
+mmm-sispa-ont-s52247-1/ARTIC/medaka,VUI-21FEB-04,animating-thermos,low-qc,0,0,0,0,0,19,0
+mmm-sispa-ont-s52247-1/ARTIC/medaka,VOC-20DEC-02,carnival-shimmy,low-qc,0,0,0,0,0,14,0
+mmm-sispa-ont-s52247-1/ARTIC/medaka,VUI-21FEB-01,cheesy-styling,low-qc,0,0,0,0,0,13,0
+mmm-sispa-ont-s52247-1/ARTIC/medaka,VUI-21MAR-01,cornstalk-handprint,low-qc,0,0,0,0,0,9,0
+mmm-sispa-ont-s52247-1/ARTIC/medaka,VUI-21MAY-01,dandelion-marshy,low-qc,0,0,0,0,0,26,0
+mmm-sispa-ont-s52247-1/ARTIC/medaka,VOC-20DEC-01,denture-daughter,low-qc,0,0,0,0,0,15,0
+mmm-sispa-ont-s52247-1/ARTIC/medaka,E484K,harbor-sprite,low-qc,0,0,0,0,0,1,0
+mmm-sispa-ont-s52247-1/ARTIC/medaka,VUI-21JAN-01,marbling-doodle,low-qc,0,0,0,0,0,7,0
+mmm-sispa-ont-s52247-1/ARTIC/medaka,VUI-21MAR-02,mushroom-android,low-qc,0,0,0,0,0,17,0
+mmm-sispa-ont-s52247-1/ARTIC/medaka,VUI-21MAY-02,paragraph-footwork,low-qc,0,0,0,0,0,11,0
+mmm-sispa-ont-s52247-1/ARTIC/medaka,VUI-21JUN-01,perfume-sprint,low-qc,0,0,0,0,0,11,0
+mmm-sispa-ont-s52247-1/ARTIC/medaka,VOC-21JAN-02,slinky-antennae,low-qc,0,0,0,0,0,16,0
