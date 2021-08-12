@@ -1,0 +1,12 @@
+##fileformat=VCFv4.1
+##contig=<ID=MN908947.3,length=29903>
+##INFO=<ID=QNAME,Number=1,Type=String,Description="Query name">
+##INFO=<ID=QSTART,Number=1,Type=Integer,Description="Query start">
+##INFO=<ID=QSTRAND,Number=1,Type=String,Description="Query strand">
+##FORMAT=<ID=GT,Number=1,Type=String,Description="Genotype">
+#CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO	FORMAT	mmm-sispa-ont-s71898-2
+MN908947.3	2764	.	G	T	60	.	QNAME=mmm-sispa-ont-s71898-2/ARTIC/medaka;QSTART=2764;QSTRAND=+	GT	1/1
+MN908947.3	22227	.	C	T	60	.	QNAME=mmm-sispa-ont-s71898-2/ARTIC/medaka;QSTART=22227;QSTRAND=+	GT	1/1
+MN908947.3	23403	.	A	G	60	.	QNAME=mmm-sispa-ont-s71898-2/ARTIC/medaka;QSTART=23403;QSTRAND=+	GT	1/1
+MN908947.3	26801	.	C	G	60	.	QNAME=mmm-sispa-ont-s71898-2/ARTIC/medaka;QSTART=26801;QSTRAND=+	GT	1/1
+MN908947.3	29645	.	G	T	60	.	QNAME=mmm-sispa-ont-s71898-2/ARTIC/medaka;QSTART=29645;QSTRAND=+	GT	1/1

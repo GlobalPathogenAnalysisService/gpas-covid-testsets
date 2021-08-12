@@ -1,0 +1,28 @@
+##fileformat=VCFv4.1
+##contig=<ID=MN908947.3,length=29903>
+##INFO=<ID=QNAME,Number=1,Type=String,Description="Query name">
+##INFO=<ID=QSTART,Number=1,Type=Integer,Description="Query start">
+##INFO=<ID=QSTRAND,Number=1,Type=String,Description="Query strand">
+##FORMAT=<ID=GT,Number=1,Type=String,Description="Genotype">
+#CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO	FORMAT	mmm-artic-ill-s12368-1
+MN908947.3	100	.	C	T	60	.	QNAME=Consensus_mmm-artic-ill-s12368-1.primertrimmed.consensus_threshold_0.75_quality_20;QSTART=100;QSTRAND=+	GT	1/1
+MN908947.3	241	.	C	T	60	.	QNAME=Consensus_mmm-artic-ill-s12368-1.primertrimmed.consensus_threshold_0.75_quality_20;QSTART=241;QSTRAND=+	GT	1/1
+MN908947.3	3037	.	C	T	60	.	QNAME=Consensus_mmm-artic-ill-s12368-1.primertrimmed.consensus_threshold_0.75_quality_20;QSTART=3037;QSTRAND=+	GT	1/1
+MN908947.3	3340	.	G	T	60	.	QNAME=Consensus_mmm-artic-ill-s12368-1.primertrimmed.consensus_threshold_0.75_quality_20;QSTART=3340;QSTRAND=+	GT	1/1
+MN908947.3	10667	.	T	G	60	.	QNAME=Consensus_mmm-artic-ill-s12368-1.primertrimmed.consensus_threshold_0.75_quality_20;QSTART=10667;QSTRAND=+	GT	1/1
+MN908947.3	11335	.	G	T	60	.	QNAME=Consensus_mmm-artic-ill-s12368-1.primertrimmed.consensus_threshold_0.75_quality_20;QSTART=11335;QSTRAND=+	GT	1/1
+MN908947.3	11824	.	C	T	60	.	QNAME=Consensus_mmm-artic-ill-s12368-1.primertrimmed.consensus_threshold_0.75_quality_20;QSTART=11824;QSTRAND=+	GT	1/1
+MN908947.3	12053	.	C	T	60	.	QNAME=Consensus_mmm-artic-ill-s12368-1.primertrimmed.consensus_threshold_0.75_quality_20;QSTART=12053;QSTRAND=+	GT	1/1
+MN908947.3	12076	.	C	T	60	.	QNAME=Consensus_mmm-artic-ill-s12368-1.primertrimmed.consensus_threshold_0.75_quality_20;QSTART=12076;QSTRAND=+	GT	1/1
+MN908947.3	12964	.	A	G	60	.	QNAME=Consensus_mmm-artic-ill-s12368-1.primertrimmed.consensus_threshold_0.75_quality_20;QSTART=12964;QSTRAND=+	GT	1/1
+MN908947.3	14408	.	C	T	60	.	QNAME=Consensus_mmm-artic-ill-s12368-1.primertrimmed.consensus_threshold_0.75_quality_20;QSTART=14408;QSTRAND=+	GT	1/1
+MN908947.3	23012	.	G	A	60	.	QNAME=Consensus_mmm-artic-ill-s12368-1.primertrimmed.consensus_threshold_0.75_quality_20;QSTART=23012;QSTRAND=+	GT	1/1
+MN908947.3	23403	.	A	G	60	.	QNAME=Consensus_mmm-artic-ill-s12368-1.primertrimmed.consensus_threshold_0.75_quality_20;QSTART=23403;QSTRAND=+	GT	1/1
+MN908947.3	25088	.	G	T	60	.	QNAME=Consensus_mmm-artic-ill-s12368-1.primertrimmed.consensus_threshold_0.75_quality_20;QSTART=25088;QSTRAND=+	GT	1/1
+MN908947.3	28253	.	C	T	60	.	QNAME=Consensus_mmm-artic-ill-s12368-1.primertrimmed.consensus_threshold_0.75_quality_20;QSTART=28253;QSTRAND=+	GT	1/1
+MN908947.3	28628	.	G	T	60	.	QNAME=Consensus_mmm-artic-ill-s12368-1.primertrimmed.consensus_threshold_0.75_quality_20;QSTART=28628;QSTRAND=+	GT	1/1
+MN908947.3	28881	.	G	A	60	.	QNAME=Consensus_mmm-artic-ill-s12368-1.primertrimmed.consensus_threshold_0.75_quality_20;QSTART=28881;QSTRAND=+	GT	1/1
+MN908947.3	28882	.	G	A	60	.	QNAME=Consensus_mmm-artic-ill-s12368-1.primertrimmed.consensus_threshold_0.75_quality_20;QSTART=28882;QSTRAND=+	GT	1/1
+MN908947.3	28883	.	G	C	60	.	QNAME=Consensus_mmm-artic-ill-s12368-1.primertrimmed.consensus_threshold_0.75_quality_20;QSTART=28883;QSTRAND=+	GT	1/1
+MN908947.3	28975	.	G	T	60	.	QNAME=Consensus_mmm-artic-ill-s12368-1.primertrimmed.consensus_threshold_0.75_quality_20;QSTART=28975;QSTRAND=+	GT	1/1
+MN908947.3	29754	.	C	T	60	.	QNAME=Consensus_mmm-artic-ill-s12368-1.primertrimmed.consensus_threshold_0.75_quality_20;QSTART=29754;QSTRAND=+	GT	1/1
