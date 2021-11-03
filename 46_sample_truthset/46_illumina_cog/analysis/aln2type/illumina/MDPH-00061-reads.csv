@@ -1,0 +1,2 @@
+sample_id,phe-label,unique-id,status,mutation-ref-calls,mutation-mixed-calls,mutation-calls,indel-ref-calls,indel-calls,no-calls,no-calls-deletion
+Consensus_3e2e8db9-26e8-4343-88df-fd9fa1449dea.primertrimmed.consensus_threshold_0.75_quality_20,unclassified,unclassified,unclassified,,,,,,,

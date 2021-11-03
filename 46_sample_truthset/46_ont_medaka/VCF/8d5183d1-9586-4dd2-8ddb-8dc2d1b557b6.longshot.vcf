@@ -1,0 +1,30 @@
+##fileformat=VCFv4.2
+##source=Longshot v0.4.0
+##INFO=<ID=DP,Number=1,Type=Integer,Description="Total Depth of reads passing MAPQ filter">
+##INFO=<ID=AC,Number=R,Type=Integer,Description="Number of Observations of Each Allele">
+##INFO=<ID=AM,Number=1,Type=Integer,Description="Number of Ambiguous Allele Observations">
+##INFO=<ID=MC,Number=1,Type=Integer,Description="Minimum Error Correction (MEC) for this single variant">
+##INFO=<ID=MF,Number=1,Type=Float,Description="Minimum Error Correction (MEC) Fraction for this variant.">
+##INFO=<ID=MB,Number=1,Type=Float,Description="Minimum Error Correction (MEC) Fraction for this variant's haplotype block.">
+##INFO=<ID=AQ,Number=1,Type=Float,Description="Mean Allele Quality value (PHRED-scaled).">
+##INFO=<ID=GM,Number=1,Type=Integer,Description="Phased genotype matches unphased genotype (boolean).">
+##INFO=<ID=PH,Number=G,Type=Integer,Description="PHRED-scaled Probabilities of Phased Genotypes">
+##INFO=<ID=SC,Number=1,Type=String,Description="Reference Sequence in 21-bp window around variant.">
+##FILTER=<ID=dn,Description="In a dense cluster of variants">
+##FILTER=<ID=dp,Description="Exceeds maximum depth">
+##FILTER=<ID=sb,Description="Allelic strand bias">
+##FORMAT=<ID=GT,Number=1,Type=String,Description="Genotype">
+##FORMAT=<ID=GQ,Number=1,Type=Float,Description="Genotype Quality">
+##FORMAT=<ID=PS,Number=1,Type=Integer,Description="Phase Set">
+##FORMAT=<ID=UG,Number=1,Type=String,Description="Unphased Genotype (pre-haplotype-assembly)">
+##FORMAT=<ID=UQ,Number=1,Type=Float,Description="Unphased Genotype Quality (pre-haplotype-assembly)">
+#CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO	FORMAT	SAMPLE
+MN908947.3	241	.	C	T	500.00	PASS	DP=203;AC=0,177;AM=26;MC=0;MF=0.000;MB=0.000;AQ=14.35;GM=1;PH=6.02,6.02,6.02,6.02;SC=None;	GT:GQ:PS:UG:UQ	1/1:500.00:.:1/1:500.00
+MN908947.3	1059	.	C	T	500.00	PASS	DP=146;AC=0,144;AM=2;MC=0;MF=0.000;MB=0.000;AQ=20.80;GM=1;PH=6.02,6.02,6.02,6.02;SC=None;	GT:GQ:PS:UG:UQ	1/1:500.00:.:1/1:500.00
+MN908947.3	3037	.	C	T	500.00	PASS	DP=130;AC=0,126;AM=4;MC=0;MF=0.000;MB=0.000;AQ=13.12;GM=1;PH=6.02,6.02,6.02,6.02;SC=None;	GT:GQ:PS:UG:UQ	1/1:500.00:.:1/1:500.00
+MN908947.3	10523	.	G	C	500.00	PASS	DP=146;AC=2,122;AM=22;MC=0;MF=0.000;MB=0.000;AQ=10.91;GM=1;PH=6.02,6.02,6.02,6.02;SC=None;	GT:GQ:PS:UG:UQ	1/1:500.00:.:1/1:500.00
+MN908947.3	12119	.	C	T	500.00	PASS	DP=156;AC=1,135;AM=20;MC=0;MF=0.000;MB=0.000;AQ=11.88;GM=1;PH=6.02,6.02,6.02,6.02;SC=None;	GT:GQ:PS:UG:UQ	1/1:500.00:.:1/1:500.00
+MN908947.3	14408	.	C	T	500.00	PASS	DP=152;AC=3,138;AM=11;MC=0;MF=0.000;MB=0.000;AQ=14.01;GM=1;PH=6.02,6.02,6.02,6.02;SC=None;	GT:GQ:PS:UG:UQ	1/1:500.00:.:1/1:500.00
+MN908947.3	18086	.	C	A	500.00	PASS	DP=163;AC=2,157;AM=4;MC=0;MF=0.000;MB=0.000;AQ=18.75;GM=1;PH=6.02,6.02,6.02,6.02;SC=None;	GT:GQ:PS:UG:UQ	1/1:500.00:.:1/1:500.00
+MN908947.3	23403	.	A	G	500.00	PASS	DP=142;AC=1,131;AM=10;MC=0;MF=0.000;MB=0.000;AQ=15.51;GM=1;PH=6.02,6.02,6.02,6.02;SC=None;	GT:GQ:PS:UG:UQ	1/1:500.00:.:1/1:500.00
+MN908947.3	25563	.	G	T	500.00	PASS	DP=153;AC=0,144;AM=9;MC=0;MF=0.000;MB=0.000;AQ=15.43;GM=1;PH=6.02,6.02,6.02,6.02;SC=None;	GT:GQ:PS:UG:UQ	1/1:500.00:.:1/1:500.00

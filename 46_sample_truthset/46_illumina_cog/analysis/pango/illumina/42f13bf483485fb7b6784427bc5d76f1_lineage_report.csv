@@ -1,0 +1,2 @@
+taxon,lineage,conflict,ambiguity_score,scorpio_call,scorpio_support,scorpio_conflict,version,pangolin_version,pangoLEARN_version,pango_version,status,note
+Consensus_3ef407de-01e0-4e9d-8f5f-fa1c9b975a0b.primertrimmed.consensus_threshold_0.75_quality_20,P.1,0.0,0.9983601180714988,Gamma (P.1-like),0.875000,0.000000,PLEARN-v1.2.76,3.1.11,2021-09-17,v1.2.76,passed_qc,scorpio call: Alt alleles 14; Ref alleles 0; Amb alleles 0; Oth alleles 2

@@ -1,0 +1,32 @@
+##fileformat=VCFv4.2
+##FILTER=<ID=PASS,Description="All filters passed">
+##contig=<ID=MN908947.3,length=29903>
+##FORMAT=<ID=GT,Number=1,Type=String,Description="Genotype">
+##bcftools_normVersion=1.10.2 (pysam)+htslib-1.10.2 (pysam)
+##bcftools_normCommand=norm -c x -d any -f ref.fa -o /tmp/tmpyf6r7vub b24910a0-254a-48fc-a97c-3cc8e5acf39d_outdir/varifier/03.probe_filtered.vcf; Date=Fri Sep 24 13:56:37 2021
+##bcftools_normCommand=norm -c x -d any -f ref.fa -o /tmp/tmp_b_4gs3l b24910a0-254a-48fc-a97c-3cc8e5acf39d_outdir/varifier/04.truth.vcf; Date=Fri Sep 24 13:56:37 2021
+#CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO	FORMAT	sample
+MN908947.3	241	0	C	T	.	PASS	.	GT	1/1
+MN908947.3	1363	1	T	A	.	PASS	.	GT	1/1
+MN908947.3	3037	2	C	T	.	PASS	.	GT	1/1
+MN908947.3	7767	3	T	C	.	PASS	.	GT	1/1
+MN908947.3	8047	4	C	T	.	PASS	.	GT	1/1
+MN908947.3	10645	5	C	T	.	PASS	.	GT	1/1
+MN908947.3	11557	6	G	T	.	PASS	.	GT	1/1
+MN908947.3	12988	7	G	T	.	PASS	.	GT	1/1
+MN908947.3	14408	8	C	T	.	PASS	.	GT	1/1
+MN908947.3	15598	9	G	A	.	PASS	.	GT	1/1
+MN908947.3	17104	10	C	T	.	PASS	.	GT	1/1
+MN908947.3	17740	11	C	T	.	PASS	.	GT	1/1
+MN908947.3	18028	12	G	T	.	PASS	.	GT	1/1
+MN908947.3	20268	13	A	G	.	PASS	.	GT	1/1
+MN908947.3	20451	14	C	T	.	PASS	.	GT	1/1
+MN908947.3	21764	15	ATACATG	A	.	PASS	.	GT	1/1
+MN908947.3	22879	16	C	A	.	PASS	.	GT	1/1
+MN908947.3	23403	17	A	G	.	PASS	.	GT	1/1
+MN908947.3	24910	18	T	C	.	PASS	.	GT	1/1
+MN908947.3	25606	19	G	T	.	PASS	.	GT	1/1
+MN908947.3	26313	20	C	T	.	PASS	.	GT	1/1
+MN908947.3	26972	21	T	C	.	PASS	.	GT	1/1
+MN908947.3	27800	22	C	A	.	PASS	.	GT	1/1
+MN908947.3	29734	23	G	C	.	PASS	.	GT	1/1
