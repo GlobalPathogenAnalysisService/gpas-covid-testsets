@@ -1,0 +1,2 @@
+taxon,lineage,conflict,ambiguity_score,scorpio_call,scorpio_support,scorpio_conflict,version,pangolin_version,pangoLEARN_version,pango_version,status,note
+assembly,B.1.177.7,,,,,,PANGO-v1.2.76,3.1.11,2021-09-17,v1.2.76,passed_qc,Assigned from designation hash.

@@ -1,0 +1,760 @@
+{
+  "schemaVersion": "1.0.0",
+  "nextcladeVersion": "1.3.0",
+  "timestamp": 1632500023,
+  "results": [
+    {
+      "seqName": "Consensus_8916f997-7514-4060-a0d2-9e7fb962cec9.primertrimmed.consensus_threshold_0.75_quality_20",
+      "clade": "20E (EU1)",
+      "alignmentStart": 0,
+      "alignmentScore": 89637,
+      "alignmentEnd": 29903,
+      "totalSubstitutions": 18,
+      "totalDeletions": 0,
+      "totalInsertions": 0,
+      "totalMissing": 71,
+      "totalNonACGTNs": 0,
+      "totalPcrPrimerChanges": 0,
+      "totalAminoacidSubstitutions": 8,
+      "totalAminoacidDeletions": 0,
+      "totalUnknownAa": 0,
+      "substitutions": [
+        {
+          "refNuc": "G",
+          "pos": 203,
+          "queryNuc": "T",
+          "aaSubstitutions": [],
+          "aaDeletions": [],
+          "pcrPrimersChanged": []
+        },
+        {
+          "refNuc": "C",
+          "pos": 240,
+          "queryNuc": "T",
+          "aaSubstitutions": [],
+          "aaDeletions": [],
+          "pcrPrimersChanged": []
+        },
+        {
+          "refNuc": "T",
+          "pos": 444,
+          "queryNuc": "C",
+          "aaSubstitutions": [],
+          "aaDeletions": [],
+          "pcrPrimersChanged": []
+        },
+        {
+          "refNuc": "C",
+          "pos": 1624,
+          "queryNuc": "T",
+          "aaSubstitutions": [
+            {
+              "gene": "ORF1a",
+              "refAA": "L",
+              "codon": 453,
+              "queryAA": "F",
+              "codonNucRange": {
+                "begin": 1624,
+                "end": 1627
+              },
+              "refContext": "ATACTCCAA",
+              "queryContext": "ATATTCCAA",
+              "contextNucRange": {
+                "begin": 1621,
+                "end": 1630
+              },
+              "nucSubstitutions": [],
+              "nucDeletions": []
+            }
+          ],
+          "aaDeletions": [],
+          "pcrPrimersChanged": []
+        },
+        {
+          "refNuc": "C",
+          "pos": 3036,
+          "queryNuc": "T",
+          "aaSubstitutions": [],
+          "aaDeletions": [],
+          "pcrPrimersChanged": []
+        },
+        {
+          "refNuc": "G",
+          "pos": 4453,
+          "queryNuc": "T",
+          "aaSubstitutions": [
+            {
+              "gene": "ORF1a",
+              "refAA": "A",
+              "codon": 1396,
+              "queryAA": "S",
+              "codonNucRange": {
+                "begin": 4453,
+                "end": 4456
+              },
+              "refContext": "AAAGCCATA",
+              "queryContext": "AAATCCATA",
+              "contextNucRange": {
+                "begin": 4450,
+                "end": 4459
+              },
+              "nucSubstitutions": [],
+              "nucDeletions": []
+            }
+          ],
+          "aaDeletions": [],
+          "pcrPrimersChanged": []
+        },
+        {
+          "refNuc": "C",
+          "pos": 6285,
+          "queryNuc": "T",
+          "aaSubstitutions": [],
+          "aaDeletions": [],
+          "pcrPrimersChanged": []
+        },
+        {
+          "refNuc": "C",
+          "pos": 14407,
+          "queryNuc": "T",
+          "aaSubstitutions": [
+            {
+              "gene": "ORF1b",
+              "refAA": "P",
+              "codon": 313,
+              "queryAA": "L",
+              "codonNucRange": {
+                "begin": 14406,
+                "end": 14409
+              },
+              "refContext": "CCACCTACA",
+              "queryContext": "CCACTTACA",
+              "contextNucRange": {
+                "begin": 14403,
+                "end": 14412
+              },
+              "nucSubstitutions": [],
+              "nucDeletions": []
+            }
+          ],
+          "aaDeletions": [],
+          "pcrPrimersChanged": []
+        },
+        {
+          "refNuc": "C",
+          "pos": 15479,
+          "queryNuc": "T",
+          "aaSubstitutions": [],
+          "aaDeletions": [],
+          "pcrPrimersChanged": []
+        },
+        {
+          "refNuc": "G",
+          "pos": 21254,
+          "queryNuc": "C",
+          "aaSubstitutions": [],
+          "aaDeletions": [],
+          "pcrPrimersChanged": []
+        },
+        {
+          "refNuc": "C",
+          "pos": 21613,
+          "queryNuc": "T",
+          "aaSubstitutions": [
+            {
+              "gene": "S",
+              "refAA": "L",
+              "codon": 17,
+              "queryAA": "F",
+              "codonNucRange": {
+                "begin": 21613,
+                "end": 21616
+              },
+              "refContext": "AATCTTACA",
+              "queryContext": "AATTTTACA",
+              "contextNucRange": {
+                "begin": 21610,
+                "end": 21619
+              },
+              "nucSubstitutions": [],
+              "nucDeletions": []
+            }
+          ],
+          "aaDeletions": [],
+          "pcrPrimersChanged": []
+        },
+        {
+          "refNuc": "C",
+          "pos": 22226,
+          "queryNuc": "T",
+          "aaSubstitutions": [
+            {
+              "gene": "S",
+              "refAA": "A",
+              "codon": 221,
+              "queryAA": "V",
+              "codonNucRange": {
+                "begin": 22225,
+                "end": 22228
+              },
+              "refContext": "TCGGCTTTA",
+              "queryContext": "TCGGTTTTA",
+              "contextNucRange": {
+                "begin": 22222,
+                "end": 22231
+              },
+              "nucSubstitutions": [],
+              "nucDeletions": []
+            }
+          ],
+          "aaDeletions": [],
+          "pcrPrimersChanged": []
+        },
+        {
+          "refNuc": "A",
+          "pos": 23402,
+          "queryNuc": "G",
+          "aaSubstitutions": [
+            {
+              "gene": "S",
+              "refAA": "D",
+              "codon": 613,
+              "queryAA": "G",
+              "codonNucRange": {
+                "begin": 23401,
+                "end": 23404
+              },
+              "refContext": "CAGGATGTT",
+              "queryContext": "CAGGGTGTT",
+              "contextNucRange": {
+                "begin": 23398,
+                "end": 23407
+              },
+              "nucSubstitutions": [],
+              "nucDeletions": []
+            }
+          ],
+          "aaDeletions": [],
+          "pcrPrimersChanged": []
+        },
+        {
+          "refNuc": "C",
+          "pos": 24137,
+          "queryNuc": "T",
+          "aaSubstitutions": [
+            {
+              "gene": "S",
+              "refAA": "T",
+              "codon": 858,
+              "queryAA": "I",
+              "codonNucRange": {
+                "begin": 24136,
+                "end": 24139
+              },
+              "refContext": "CTTACTGTT",
+              "queryContext": "CTTATTGTT",
+              "contextNucRange": {
+                "begin": 24133,
+                "end": 24142
+              },
+              "nucSubstitutions": [],
+              "nucDeletions": []
+            }
+          ],
+          "aaDeletions": [],
+          "pcrPrimersChanged": []
+        },
+        {
+          "refNuc": "C",
+          "pos": 26800,
+          "queryNuc": "G",
+          "aaSubstitutions": [],
+          "aaDeletions": [],
+          "pcrPrimersChanged": []
+        },
+        {
+          "refNuc": "C",
+          "pos": 27943,
+          "queryNuc": "T",
+          "aaSubstitutions": [],
+          "aaDeletions": [],
+          "pcrPrimersChanged": []
+        },
+        {
+          "refNuc": "C",
+          "pos": 28931,
+          "queryNuc": "T",
+          "aaSubstitutions": [
+            {
+              "gene": "N",
+              "refAA": "A",
+              "codon": 219,
+              "queryAA": "V",
+              "codonNucRange": {
+                "begin": 28930,
+                "end": 28933
+              },
+              "refContext": "CTTGCTTTG",
+              "queryContext": "CTTGTTTTG",
+              "contextNucRange": {
+                "begin": 28927,
+                "end": 28936
+              },
+              "nucSubstitutions": [],
+              "nucDeletions": []
+            }
+          ],
+          "aaDeletions": [],
+          "pcrPrimersChanged": []
+        },
+        {
+          "refNuc": "G",
+          "pos": 29644,
+          "queryNuc": "T",
+          "aaSubstitutions": [],
+          "aaDeletions": [],
+          "pcrPrimersChanged": []
+        }
+      ],
+      "deletions": [],
+      "insertions": [],
+      "missing": [
+        {
+          "begin": 0,
+          "end": 4,
+          "length": 4,
+          "character": "N"
+        },
+        {
+          "begin": 29836,
+          "end": 29903,
+          "length": 67,
+          "character": "N"
+        }
+      ],
+      "nonACGTNs": [],
+      "pcrPrimerChanges": [],
+      "aaSubstitutions": [
+        {
+          "gene": "N",
+          "refAA": "A",
+          "codon": 219,
+          "queryAA": "V",
+          "codonNucRange": {
+            "begin": 28930,
+            "end": 28933
+          },
+          "refContext": "CTTGCTTTG",
+          "queryContext": "CTTGTTTTG",
+          "contextNucRange": {
+            "begin": 28927,
+            "end": 28936
+          },
+          "nucSubstitutions": [
+            {
+              "refNuc": "C",
+              "pos": 28931,
+              "queryNuc": "T",
+              "aaSubstitutions": [
+                {
+                  "gene": "N",
+                  "refAA": "A",
+                  "codon": 219,
+                  "queryAA": "V",
+                  "codonNucRange": {
+                    "begin": 28930,
+                    "end": 28933
+                  },
+                  "refContext": "CTTGCTTTG",
+                  "queryContext": "CTTGTTTTG",
+                  "contextNucRange": {
+                    "begin": 28927,
+                    "end": 28936
+                  },
+                  "nucSubstitutions": [],
+                  "nucDeletions": []
+                }
+              ],
+              "aaDeletions": [],
+              "pcrPrimersChanged": []
+            }
+          ],
+          "nucDeletions": []
+        },
+        {
+          "gene": "ORF1a",
+          "refAA": "L",
+          "codon": 453,
+          "queryAA": "F",
+          "codonNucRange": {
+            "begin": 1624,
+            "end": 1627
+          },
+          "refContext": "ATACTCCAA",
+          "queryContext": "ATATTCCAA",
+          "contextNucRange": {
+            "begin": 1621,
+            "end": 1630
+          },
+          "nucSubstitutions": [
+            {
+              "refNuc": "C",
+              "pos": 1624,
+              "queryNuc": "T",
+              "aaSubstitutions": [
+                {
+                  "gene": "ORF1a",
+                  "refAA": "L",
+                  "codon": 453,
+                  "queryAA": "F",
+                  "codonNucRange": {
+                    "begin": 1624,
+                    "end": 1627
+                  },
+                  "refContext": "ATACTCCAA",
+                  "queryContext": "ATATTCCAA",
+                  "contextNucRange": {
+                    "begin": 1621,
+                    "end": 1630
+                  },
+                  "nucSubstitutions": [],
+                  "nucDeletions": []
+                }
+              ],
+              "aaDeletions": [],
+              "pcrPrimersChanged": []
+            }
+          ],
+          "nucDeletions": []
+        },
+        {
+          "gene": "ORF1a",
+          "refAA": "A",
+          "codon": 1396,
+          "queryAA": "S",
+          "codonNucRange": {
+            "begin": 4453,
+            "end": 4456
+          },
+          "refContext": "AAAGCCATA",
+          "queryContext": "AAATCCATA",
+          "contextNucRange": {
+            "begin": 4450,
+            "end": 4459
+          },
+          "nucSubstitutions": [
+            {
+              "refNuc": "G",
+              "pos": 4453,
+              "queryNuc": "T",
+              "aaSubstitutions": [
+                {
+                  "gene": "ORF1a",
+                  "refAA": "A",
+                  "codon": 1396,
+                  "queryAA": "S",
+                  "codonNucRange": {
+                    "begin": 4453,
+                    "end": 4456
+                  },
+                  "refContext": "AAAGCCATA",
+                  "queryContext": "AAATCCATA",
+                  "contextNucRange": {
+                    "begin": 4450,
+                    "end": 4459
+                  },
+                  "nucSubstitutions": [],
+                  "nucDeletions": []
+                }
+              ],
+              "aaDeletions": [],
+              "pcrPrimersChanged": []
+            }
+          ],
+          "nucDeletions": []
+        },
+        {
+          "gene": "ORF1b",
+          "refAA": "P",
+          "codon": 313,
+          "queryAA": "L",
+          "codonNucRange": {
+            "begin": 14406,
+            "end": 14409
+          },
+          "refContext": "CCACCTACA",
+          "queryContext": "CCACTTACA",
+          "contextNucRange": {
+            "begin": 14403,
+            "end": 14412
+          },
+          "nucSubstitutions": [
+            {
+              "refNuc": "C",
+              "pos": 14407,
+              "queryNuc": "T",
+              "aaSubstitutions": [
+                {
+                  "gene": "ORF1b",
+                  "refAA": "P",
+                  "codon": 313,
+                  "queryAA": "L",
+                  "codonNucRange": {
+                    "begin": 14406,
+                    "end": 14409
+                  },
+                  "refContext": "CCACCTACA",
+                  "queryContext": "CCACTTACA",
+                  "contextNucRange": {
+                    "begin": 14403,
+                    "end": 14412
+                  },
+                  "nucSubstitutions": [],
+                  "nucDeletions": []
+                }
+              ],
+              "aaDeletions": [],
+              "pcrPrimersChanged": []
+            }
+          ],
+          "nucDeletions": []
+        },
+        {
+          "gene": "S",
+          "refAA": "L",
+          "codon": 17,
+          "queryAA": "F",
+          "codonNucRange": {
+            "begin": 21613,
+            "end": 21616
+          },
+          "refContext": "AATCTTACA",
+          "queryContext": "AATTTTACA",
+          "contextNucRange": {
+            "begin": 21610,
+            "end": 21619
+          },
+          "nucSubstitutions": [
+            {
+              "refNuc": "C",
+              "pos": 21613,
+              "queryNuc": "T",
+              "aaSubstitutions": [
+                {
+                  "gene": "S",
+                  "refAA": "L",
+                  "codon": 17,
+                  "queryAA": "F",
+                  "codonNucRange": {
+                    "begin": 21613,
+                    "end": 21616
+                  },
+                  "refContext": "AATCTTACA",
+                  "queryContext": "AATTTTACA",
+                  "contextNucRange": {
+                    "begin": 21610,
+                    "end": 21619
+                  },
+                  "nucSubstitutions": [],
+                  "nucDeletions": []
+                }
+              ],
+              "aaDeletions": [],
+              "pcrPrimersChanged": []
+            }
+          ],
+          "nucDeletions": []
+        },
+        {
+          "gene": "S",
+          "refAA": "A",
+          "codon": 221,
+          "queryAA": "V",
+          "codonNucRange": {
+            "begin": 22225,
+            "end": 22228
+          },
+          "refContext": "TCGGCTTTA",
+          "queryContext": "TCGGTTTTA",
+          "contextNucRange": {
+            "begin": 22222,
+            "end": 22231
+          },
+          "nucSubstitutions": [
+            {
+              "refNuc": "C",
+              "pos": 22226,
+              "queryNuc": "T",
+              "aaSubstitutions": [
+                {
+                  "gene": "S",
+                  "refAA": "A",
+                  "codon": 221,
+                  "queryAA": "V",
+                  "codonNucRange": {
+                    "begin": 22225,
+                    "end": 22228
+                  },
+                  "refContext": "TCGGCTTTA",
+                  "queryContext": "TCGGTTTTA",
+                  "contextNucRange": {
+                    "begin": 22222,
+                    "end": 22231
+                  },
+                  "nucSubstitutions": [],
+                  "nucDeletions": []
+                }
+              ],
+              "aaDeletions": [],
+              "pcrPrimersChanged": []
+            }
+          ],
+          "nucDeletions": []
+        },
+        {
+          "gene": "S",
+          "refAA": "D",
+          "codon": 613,
+          "queryAA": "G",
+          "codonNucRange": {
+            "begin": 23401,
+            "end": 23404
+          },
+          "refContext": "CAGGATGTT",
+          "queryContext": "CAGGGTGTT",
+          "contextNucRange": {
+            "begin": 23398,
+            "end": 23407
+          },
+          "nucSubstitutions": [
+            {
+              "refNuc": "A",
+              "pos": 23402,
+              "queryNuc": "G",
+              "aaSubstitutions": [
+                {
+                  "gene": "S",
+                  "refAA": "D",
+                  "codon": 613,
+                  "queryAA": "G",
+                  "codonNucRange": {
+                    "begin": 23401,
+                    "end": 23404
+                  },
+                  "refContext": "CAGGATGTT",
+                  "queryContext": "CAGGGTGTT",
+                  "contextNucRange": {
+                    "begin": 23398,
+                    "end": 23407
+                  },
+                  "nucSubstitutions": [],
+                  "nucDeletions": []
+                }
+              ],
+              "aaDeletions": [],
+              "pcrPrimersChanged": []
+            }
+          ],
+          "nucDeletions": []
+        },
+        {
+          "gene": "S",
+          "refAA": "T",
+          "codon": 858,
+          "queryAA": "I",
+          "codonNucRange": {
+            "begin": 24136,
+            "end": 24139
+          },
+          "refContext": "CTTACTGTT",
+          "queryContext": "CTTATTGTT",
+          "contextNucRange": {
+            "begin": 24133,
+            "end": 24142
+          },
+          "nucSubstitutions": [
+            {
+              "refNuc": "C",
+              "pos": 24137,
+              "queryNuc": "T",
+              "aaSubstitutions": [
+                {
+                  "gene": "S",
+                  "refAA": "T",
+                  "codon": 858,
+                  "queryAA": "I",
+                  "codonNucRange": {
+                    "begin": 24136,
+                    "end": 24139
+                  },
+                  "refContext": "CTTACTGTT",
+                  "queryContext": "CTTATTGTT",
+                  "contextNucRange": {
+                    "begin": 24133,
+                    "end": 24142
+                  },
+                  "nucSubstitutions": [],
+                  "nucDeletions": []
+                }
+              ],
+              "aaDeletions": [],
+              "pcrPrimersChanged": []
+            }
+          ],
+          "nucDeletions": []
+        }
+      ],
+      "aaDeletions": [],
+      "unknownAaRanges": [],
+      "nearestNodeId": 440,
+      "qc": {
+        "overallScore": 0.0,
+        "overallStatus": "good",
+        "missingData": {
+          "missingDataThreshold": 3000.0,
+          "score": 0.0,
+          "status": "good",
+          "totalMissing": 71
+        },
+        "mixedSites": {
+          "mixedSitesThreshold": 10.0,
+          "score": 0.0,
+          "status": "good",
+          "totalMixedSites": 0
+        },
+        "privateMutations": {
+          "cutoff": 24.0,
+          "excess": -4.0,
+          "score": 0.0,
+          "status": "good",
+          "total": 4.0
+        },
+        "snpClusters": {
+          "clusteredSNPs": [],
+          "score": 0.0,
+          "status": "good",
+          "totalSNPs": 0
+        },
+        "frameShifts": {
+          "score": 0.0,
+          "status": "good",
+          "frameShifts": [],
+          "totalFrameShifts": 0
+        },
+        "stopCodons": {
+          "score": 0.0,
+          "status": "good",
+          "stopCodons": [],
+          "totalStopCodons": 0
+        }
+      },
+      "nucleotideComposition": {
+        "T": 9593,
+        "A": 8908,
+        "C": 5477,
+        "G": 5854,
+        "N": 71
+      }
+    }
+  ]
+}

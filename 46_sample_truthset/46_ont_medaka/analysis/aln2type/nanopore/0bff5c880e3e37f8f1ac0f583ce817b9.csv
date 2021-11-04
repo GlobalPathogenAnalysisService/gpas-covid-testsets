@@ -1,0 +1,3 @@
+sample_id,phe-label,unique-id,status,mutation-ref-calls,mutation-mixed-calls,mutation-calls,indel-ref-calls,indel-calls,no-calls,no-calls-deletion
+51946a2a-c0f0-49a6-b44f-96ee61824b01/ARTIC/medaka,VOC-20DEC-02,carnival-shimmy,confirmed,0,0,12,0,2,0,0
+51946a2a-c0f0-49a6-b44f-96ee61824b01/ARTIC/medaka,E484K,harbor-sprite,confirmed,0,0,1,0,0,0,0

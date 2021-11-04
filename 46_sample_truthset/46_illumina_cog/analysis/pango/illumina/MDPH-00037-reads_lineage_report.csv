@@ -1,0 +1,2 @@
+taxon,lineage,conflict,ambiguity_score,scorpio_call,scorpio_support,scorpio_conflict,version,pangolin_version,pangoLEARN_version,pango_version,status,note
+Consensus_a3ba87a4-ae17-45e7-82d2-7cb0f04ce102.primertrimmed.consensus_threshold_0.75_quality_20,B.1,,,,,,PANGO-v1.2.76,3.1.11,2021-09-17,v1.2.76,passed_qc,Assigned from designation hash.

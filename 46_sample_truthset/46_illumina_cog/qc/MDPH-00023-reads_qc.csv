@@ -1,0 +1,2 @@
+sample_name,pct_N_bases,pct_covered_bases,longest_no_N_run,num_aligned_reads,fasta,bam,qc_pass
+f57efed3-d7c5-42d9-8900-ee981d50db70,0.32,99.68,29807,577416,f57efed3-d7c5-42d9-8900-ee981d50db70.fasta,f57efed3-d7c5-42d9-8900-ee981d50db70.mapped.primertrimmed.sorted.bam,TRUE

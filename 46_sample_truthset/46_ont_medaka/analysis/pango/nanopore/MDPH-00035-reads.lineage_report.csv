@@ -1,0 +1,2 @@
+taxon,lineage,conflict,ambiguity_score,scorpio_call,scorpio_support,scorpio_conflict,version,pangolin_version,pangoLEARN_version,pango_version,status,note
+8a5fef34-a863-49db-8f7b-740534ce0b6b/ARTIC/medaka_MN908947.3,B.40,0.0,1.0,,,,PLEARN-v1.2.76,3.1.11,2021-09-17,v1.2.76,passed_qc,

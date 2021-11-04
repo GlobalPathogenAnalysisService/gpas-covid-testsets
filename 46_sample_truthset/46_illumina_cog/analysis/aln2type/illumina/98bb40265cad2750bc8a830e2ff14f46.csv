@@ -1,0 +1,4 @@
+sample_id,phe-label,unique-id,status,mutation-ref-calls,mutation-mixed-calls,mutation-calls,indel-ref-calls,indel-calls,no-calls,no-calls-deletion
+Consensus_51c5a789-8f4b-4684-9dd4-4b84ead91c65.primertrimmed.consensus_threshold_0.75_quality_20,VOC-20DEC-01,denture-daughter,confirmed,0,0,13,0,2,0,0
+Consensus_51c5a789-8f4b-4684-9dd4-4b84ead91c65.primertrimmed.consensus_threshold_0.75_quality_20,E484K,harbor-sprite,confirmed,0,0,1,0,0,0,0
+Consensus_51c5a789-8f4b-4684-9dd4-4b84ead91c65.primertrimmed.consensus_threshold_0.75_quality_20,VOC-21FEB-02,unloved-crouton,confirmed,0,0,5,0,0,0,0
