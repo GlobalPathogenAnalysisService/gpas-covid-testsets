@@ -1,0 +1,2 @@
+taxon,lineage,conflict,ambiguity_score,scorpio_call,scorpio_support,scorpio_conflict,version,pangolin_version,pangoLEARN_version,pango_version,status,note
+120561cf-00ef-4a2e-b928-a638646b567f/ARTIC/medaka_MN908947.3,P.1,0.0,1.0,Gamma (P.1-like),0.875000,0.000000,PLEARN-v1.2.76,3.1.11,2021-09-17,v1.2.76,passed_qc,scorpio call: Alt alleles 14; Ref alleles 0; Amb alleles 0; Oth alleles 2

@@ -1,0 +1,10 @@
+##fileformat=VCFv4.1
+##medaka_version=1.0.3
+##contig=<ID=MN908947.3>
+##FORMAT=<ID=GT,Number=1,Type=String,Description="Medaka genotype.">
+##FORMAT=<ID=GQ,Number=1,Type=Integer,Description="Medaka genotype quality score">
+#CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO	FORMAT	SAMPLE
+MN908947.3	241	.	C	T	59.237	PASS		GT:GQ	1:59
+MN908947.3	11074	.	C	CT	5.634	PASS		GT:GQ	1:6
+MN908947.3	11083	.	G	T	9.622	PASS		GT:GQ	1:10
+MN908947.3	23403	.	A	G	60.786	PASS		GT:GQ	1:61

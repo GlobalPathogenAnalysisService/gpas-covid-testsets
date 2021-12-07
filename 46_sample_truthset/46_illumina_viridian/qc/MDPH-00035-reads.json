@@ -1,0 +1,786 @@
+{
+  "nCoV-2019_1_pool1": {
+    "start": 31,
+    "end": 410,
+    "total_mapped_bases": 2110024,
+    "total_depth": 5552.69,
+    "sampled_bases": 380291,
+    "sampled_depth": 1000.77
+  },
+  "nCoV-2019_2_pool2": {
+    "start": 321,
+    "end": 726,
+    "total_mapped_bases": 2947895,
+    "total_depth": 7260.83,
+    "sampled_bases": 406313,
+    "sampled_depth": 1000.77
+  },
+  "nCoV-2019_3_pool1": {
+    "start": 643,
+    "end": 1028,
+    "total_mapped_bases": 3084133,
+    "total_depth": 7989.98,
+    "sampled_bases": 386549,
+    "sampled_depth": 1001.42
+  },
+  "nCoV-2019_4_pool2": {
+    "start": 944,
+    "end": 1337,
+    "total_mapped_bases": 3081478,
+    "total_depth": 7821.01,
+    "sampled_bases": 394211,
+    "sampled_depth": 1000.54
+  },
+  "nCoV-2019_5_pool1": {
+    "start": 1243,
+    "end": 1651,
+    "total_mapped_bases": 1038488,
+    "total_depth": 2539.09,
+    "sampled_bases": 409082,
+    "sampled_depth": 1000.2
+  },
+  "nCoV-2019_6_pool2": {
+    "start": 1574,
+    "end": 1964,
+    "total_mapped_bases": 3420830,
+    "total_depth": 8748.93,
+    "sampled_bases": 391538,
+    "sampled_depth": 1001.38
+  },
+  "nCoV-2019_7_pool1": {
+    "start": 1876,
+    "end": 2269,
+    "total_mapped_bases": 2277825,
+    "total_depth": 5781.28,
+    "sampled_bases": 394477,
+    "sampled_depth": 1001.21
+  },
+  "nCoV-2019_8_pool2": {
+    "start": 2182,
+    "end": 2592,
+    "total_mapped_bases": 1364867,
+    "total_depth": 3320.84,
+    "sampled_bases": 411097,
+    "sampled_depth": 1000.24
+  },
+  "nCoV-2019_9_pool1": {
+    "start": 2506,
+    "end": 2904,
+    "total_mapped_bases": 1545878,
+    "total_depth": 3874.38,
+    "sampled_bases": 399433,
+    "sampled_depth": 1001.09
+  },
+  "nCoV-2019_10_pool2": {
+    "start": 2827,
+    "end": 3210,
+    "total_mapped_bases": 1862596,
+    "total_depth": 4850.51,
+    "sampled_bases": 384263,
+    "sampled_depth": 1000.68
+  },
+  "nCoV-2019_11_pool1": {
+    "start": 3145,
+    "end": 3531,
+    "total_mapped_bases": 3018727,
+    "total_depth": 7800.33,
+    "sampled_bases": 387577,
+    "sampled_depth": 1001.49
+  },
+  "nCoV-2019_12_pool2": {
+    "start": 3461,
+    "end": 3853,
+    "total_mapped_bases": 1262799,
+    "total_depth": 3213.23,
+    "sampled_bases": 393586,
+    "sampled_depth": 1001.49
+  },
+  "nCoV-2019_13_pool1": {
+    "start": 3772,
+    "end": 4164,
+    "total_mapped_bases": 2361527,
+    "total_depth": 6008.97,
+    "sampled_bases": 393117,
+    "sampled_depth": 1000.3
+  },
+  "nCoV-2019_14_pool2": {
+    "start": 4055,
+    "end": 4450,
+    "total_mapped_bases": 3974187,
+    "total_depth": 10035.83,
+    "sampled_bases": 396252,
+    "sampled_depth": 1000.64
+  },
+  "nCoV-2019_15_pool1": {
+    "start": 4295,
+    "end": 4696,
+    "total_mapped_bases": 2088164,
+    "total_depth": 5194.44,
+    "sampled_bases": 402248,
+    "sampled_depth": 1000.62
+  },
+  "nCoV-2019_16_pool2": {
+    "start": 4637,
+    "end": 5017,
+    "total_mapped_bases": 2105470,
+    "total_depth": 5526.17,
+    "sampled_bases": 381143,
+    "sampled_depth": 1000.38
+  },
+  "nCoV-2019_17_pool1": {
+    "start": 4940,
+    "end": 5321,
+    "total_mapped_bases": 676172,
+    "total_depth": 1770.08,
+    "sampled_bases": 382007,
+    "sampled_depth": 1000.02
+  },
+  "nCoV-2019_18_pool2": {
+    "start": 5231,
+    "end": 5644,
+    "total_mapped_bases": 1416349,
+    "total_depth": 3421.13,
+    "sampled_bases": 414050,
+    "sampled_depth": 1000.12
+  },
+  "nCoV-2019_19_pool1": {
+    "start": 5564,
+    "end": 5957,
+    "total_mapped_bases": 2012991,
+    "total_depth": 5109.11,
+    "sampled_bases": 394199,
+    "sampled_depth": 1000.51
+  },
+  "nCoV-2019_20_pool2": {
+    "start": 5868,
+    "end": 6272,
+    "total_mapped_bases": 1311624,
+    "total_depth": 3238.58,
+    "sampled_bases": 405094,
+    "sampled_depth": 1000.23
+  },
+  "nCoV-2019_21_pool1": {
+    "start": 6168,
+    "end": 6550,
+    "total_mapped_bases": 2286940,
+    "total_depth": 5971.12,
+    "sampled_bases": 383026,
+    "sampled_depth": 1000.07
+  },
+  "nCoV-2019_22_pool2": {
+    "start": 6467,
+    "end": 6873,
+    "total_mapped_bases": 685055,
+    "total_depth": 1683.18,
+    "sampled_bases": 407400,
+    "sampled_depth": 1000.98
+  },
+  "nCoV-2019_23_pool1": {
+    "start": 6719,
+    "end": 7117,
+    "total_mapped_bases": 543397,
+    "total_depth": 1361.9,
+    "sampled_bases": 399107,
+    "sampled_depth": 1000.27
+  },
+  "nCoV-2019_24_pool2": {
+    "start": 7036,
+    "end": 7415,
+    "total_mapped_bases": 993894,
+    "total_depth": 2615.51,
+    "sampled_bases": 380508,
+    "sampled_depth": 1001.34
+  },
+  "nCoV-2019_25_pool1": {
+    "start": 7306,
+    "end": 7694,
+    "total_mapped_bases": 1562775,
+    "total_depth": 4017.42,
+    "sampled_bases": 389110,
+    "sampled_depth": 1000.28
+  },
+  "nCoV-2019_26_pool2": {
+    "start": 7627,
+    "end": 8019,
+    "total_mapped_bases": 1048102,
+    "total_depth": 2666.93,
+    "sampled_bases": 393144,
+    "sampled_depth": 1000.37
+  },
+  "nCoV-2019_27_pool1": {
+    "start": 7944,
+    "end": 8341,
+    "total_mapped_bases": 1749838,
+    "total_depth": 4396.58,
+    "sampled_bases": 398063,
+    "sampled_depth": 1000.16
+  },
+  "nCoV-2019_28_pool2": {
+    "start": 8250,
+    "end": 8661,
+    "total_mapped_bases": 420675,
+    "total_depth": 1021.06,
+    "sampled_bases": 412346,
+    "sampled_depth": 1000.84
+  },
+  "nCoV-2019_29_pool1": {
+    "start": 8596,
+    "end": 8983,
+    "total_mapped_bases": 1093068,
+    "total_depth": 2817.19,
+    "sampled_bases": 388123,
+    "sampled_depth": 1000.32
+  },
+  "nCoV-2019_30_pool2": {
+    "start": 8889,
+    "end": 9271,
+    "total_mapped_bases": 2657956,
+    "total_depth": 6939.83,
+    "sampled_bases": 383329,
+    "sampled_depth": 1000.86
+  },
+  "nCoV-2019_31_pool1": {
+    "start": 9205,
+    "end": 9585,
+    "total_mapped_bases": 1713754,
+    "total_depth": 4498.04,
+    "sampled_bases": 381054,
+    "sampled_depth": 1000.14
+  },
+  "nCoV-2019_32_pool2": {
+    "start": 9478,
+    "end": 9858,
+    "total_mapped_bases": 1064436,
+    "total_depth": 2793.8,
+    "sampled_bases": 381483,
+    "sampled_depth": 1001.27
+  },
+  "nCoV-2019_33_pool1": {
+    "start": 9785,
+    "end": 10171,
+    "total_mapped_bases": 1103986,
+    "total_depth": 2852.68,
+    "sampled_bases": 387497,
+    "sampled_depth": 1001.28
+  },
+  "nCoV-2019_34_pool2": {
+    "start": 10077,
+    "end": 10459,
+    "total_mapped_bases": 3175769,
+    "total_depth": 8291.83,
+    "sampled_bases": 383375,
+    "sampled_depth": 1000.98
+  },
+  "nCoV-2019_35_pool1": {
+    "start": 10363,
+    "end": 10763,
+    "total_mapped_bases": 1787106,
+    "total_depth": 4456.62,
+    "sampled_bases": 401455,
+    "sampled_depth": 1001.13
+  },
+  "nCoV-2019_36_pool2": {
+    "start": 10667,
+    "end": 11074,
+    "total_mapped_bases": 1882495,
+    "total_depth": 4613.96,
+    "sampled_bases": 408017,
+    "sampled_depth": 1000.04
+  },
+  "nCoV-2019_37_pool1": {
+    "start": 11000,
+    "end": 11394,
+    "total_mapped_bases": 2298455,
+    "total_depth": 5818.87,
+    "sampled_bases": 395085,
+    "sampled_depth": 1000.22
+  },
+  "nCoV-2019_38_pool2": {
+    "start": 11307,
+    "end": 11693,
+    "total_mapped_bases": 1065879,
+    "total_depth": 2754.21,
+    "sampled_bases": 387308,
+    "sampled_depth": 1000.8
+  },
+  "nCoV-2019_39_pool1": {
+    "start": 11556,
+    "end": 11949,
+    "total_mapped_bases": 763910,
+    "total_depth": 1938.86,
+    "sampled_bases": 394341,
+    "sampled_depth": 1000.87
+  },
+  "nCoV-2019_40_pool2": {
+    "start": 11864,
+    "end": 12256,
+    "total_mapped_bases": 3287846,
+    "total_depth": 8366.02,
+    "sampled_bases": 393478,
+    "sampled_depth": 1001.22
+  },
+  "nCoV-2019_41_pool1": {
+    "start": 12111,
+    "end": 12490,
+    "total_mapped_bases": 2579272,
+    "total_depth": 6787.56,
+    "sampled_bases": 380098,
+    "sampled_depth": 1000.26
+  },
+  "nCoV-2019_42_pool2": {
+    "start": 12418,
+    "end": 12802,
+    "total_mapped_bases": 2915035,
+    "total_depth": 7571.52,
+    "sampled_bases": 385110,
+    "sampled_depth": 1000.29
+  },
+  "nCoV-2019_43_pool1": {
+    "start": 12711,
+    "end": 13096,
+    "total_mapped_bases": 3055651,
+    "total_depth": 7916.19,
+    "sampled_bases": 386209,
+    "sampled_depth": 1000.54
+  },
+  "nCoV-2019_44_pool2": {
+    "start": 13006,
+    "end": 13400,
+    "total_mapped_bases": 4691721,
+    "total_depth": 11877.77,
+    "sampled_bases": 395576,
+    "sampled_depth": 1001.46
+  },
+  "nCoV-2019_45_pool1": {
+    "start": 13320,
+    "end": 13699,
+    "total_mapped_bases": 778103,
+    "total_depth": 2047.64,
+    "sampled_bases": 380345,
+    "sampled_depth": 1000.91
+  },
+  "nCoV-2019_46_pool2": {
+    "start": 13600,
+    "end": 13984,
+    "total_mapped_bases": 5512409,
+    "total_depth": 14317.95,
+    "sampled_bases": 385177,
+    "sampled_depth": 1000.46
+  },
+  "nCoV-2019_47_pool1": {
+    "start": 13919,
+    "end": 14299,
+    "total_mapped_bases": 2664970,
+    "total_depth": 6994.67,
+    "sampled_bases": 381406,
+    "sampled_depth": 1001.07
+  },
+  "nCoV-2019_48_pool2": {
+    "start": 14208,
+    "end": 14601,
+    "total_mapped_bases": 2473660,
+    "total_depth": 6278.32,
+    "sampled_bases": 394326,
+    "sampled_depth": 1000.83
+  },
+  "nCoV-2019_49_pool1": {
+    "start": 14546,
+    "end": 14926,
+    "total_mapped_bases": 1838296,
+    "total_depth": 4824.92,
+    "sampled_bases": 381548,
+    "sampled_depth": 1001.44
+  },
+  "nCoV-2019_50_pool2": {
+    "start": 14866,
+    "end": 15246,
+    "total_mapped_bases": 1045454,
+    "total_depth": 2743.97,
+    "sampled_bases": 381328,
+    "sampled_depth": 1000.86
+  },
+  "nCoV-2019_51_pool1": {
+    "start": 15172,
+    "end": 15560,
+    "total_mapped_bases": 2973233,
+    "total_depth": 7643.27,
+    "sampled_bases": 389439,
+    "sampled_depth": 1001.13
+  },
+  "nCoV-2019_52_pool2": {
+    "start": 15482,
+    "end": 15886,
+    "total_mapped_bases": 2704162,
+    "total_depth": 6676.94,
+    "sampled_bases": 405174,
+    "sampled_depth": 1000.43
+  },
+  "nCoV-2019_53_pool1": {
+    "start": 15828,
+    "end": 16209,
+    "total_mapped_bases": 2151225,
+    "total_depth": 5631.48,
+    "sampled_bases": 382560,
+    "sampled_depth": 1001.47
+  },
+  "nCoV-2019_54_pool2": {
+    "start": 16119,
+    "end": 16510,
+    "total_mapped_bases": 805525,
+    "total_depth": 2054.91,
+    "sampled_bases": 392000,
+    "sampled_depth": 1000.0
+  },
+  "nCoV-2019_55_pool1": {
+    "start": 16417,
+    "end": 16833,
+    "total_mapped_bases": 662093,
+    "total_depth": 1587.75,
+    "sampled_bases": 417266,
+    "sampled_depth": 1000.64
+  },
+  "nCoV-2019_56_pool2": {
+    "start": 16749,
+    "end": 17152,
+    "total_mapped_bases": 2949930,
+    "total_depth": 7301.81,
+    "sampled_bases": 404424,
+    "sampled_depth": 1001.05
+  },
+  "nCoV-2019_57_pool1": {
+    "start": 17066,
+    "end": 17452,
+    "total_mapped_bases": 2767018,
+    "total_depth": 7149.92,
+    "sampled_bases": 387233,
+    "sampled_depth": 1000.6
+  },
+  "nCoV-2019_58_pool2": {
+    "start": 17382,
+    "end": 17761,
+    "total_mapped_bases": 3344314,
+    "total_depth": 8800.83,
+    "sampled_bases": 380218,
+    "sampled_depth": 1000.57
+  },
+  "nCoV-2019_59_pool1": {
+    "start": 17675,
+    "end": 18062,
+    "total_mapped_bases": 1509468,
+    "total_depth": 3890.38,
+    "sampled_bases": 388341,
+    "sampled_depth": 1000.88
+  },
+  "nCoV-2019_60_pool2": {
+    "start": 17967,
+    "end": 18348,
+    "total_mapped_bases": 2199996,
+    "total_depth": 5759.15,
+    "sampled_bases": 382455,
+    "sampled_depth": 1001.19
+  },
+  "nCoV-2019_61_pool1": {
+    "start": 18254,
+    "end": 18672,
+    "total_mapped_bases": 2095830,
+    "total_depth": 5001.98,
+    "sampled_bases": 419024,
+    "sampled_depth": 1000.06
+  },
+  "nCoV-2019_62_pool2": {
+    "start": 18597,
+    "end": 18979,
+    "total_mapped_bases": 2014430,
+    "total_depth": 5259.61,
+    "sampled_bases": 383203,
+    "sampled_depth": 1000.53
+  },
+  "nCoV-2019_63_pool1": {
+    "start": 18897,
+    "end": 19297,
+    "total_mapped_bases": 2458390,
+    "total_depth": 6130.65,
+    "sampled_bases": 401344,
+    "sampled_depth": 1000.86
+  },
+  "nCoV-2019_64_pool2": {
+    "start": 19205,
+    "end": 19616,
+    "total_mapped_bases": 183262,
+    "total_depth": 444.81,
+    "sampled_bases": 180445,
+    "sampled_depth": 437.97
+  },
+  "nCoV-2019_65_pool1": {
+    "start": 19549,
+    "end": 19939,
+    "total_mapped_bases": 1413376,
+    "total_depth": 3614.77,
+    "sampled_bases": 391064,
+    "sampled_depth": 1000.16
+  },
+  "nCoV-2019_66_pool2": {
+    "start": 19845,
+    "end": 20255,
+    "total_mapped_bases": 1050230,
+    "total_depth": 2555.3,
+    "sampled_bases": 411336,
+    "sampled_depth": 1000.82
+  },
+  "nCoV-2019_67_pool1": {
+    "start": 20173,
+    "end": 20572,
+    "total_mapped_bases": 530127,
+    "total_depth": 1325.32,
+    "sampled_bases": 400172,
+    "sampled_depth": 1000.43
+  },
+  "nCoV-2019_68_pool2": {
+    "start": 20473,
+    "end": 20890,
+    "total_mapped_bases": 1798057,
+    "total_depth": 4301.57,
+    "sampled_bases": 418490,
+    "sampled_depth": 1001.17
+  },
+  "nCoV-2019_69_pool1": {
+    "start": 20787,
+    "end": 21169,
+    "total_mapped_bases": 2019864,
+    "total_depth": 5273.8,
+    "sampled_bases": 383408,
+    "sampled_depth": 1001.07
+  },
+  "nCoV-2019_70_pool2": {
+    "start": 21076,
+    "end": 21455,
+    "total_mapped_bases": 202634,
+    "total_depth": 533.25,
+    "sampled_bases": 199550,
+    "sampled_depth": 525.13
+  },
+  "nCoV-2019_71_pool1": {
+    "start": 21358,
+    "end": 21743,
+    "total_mapped_bases": 771871,
+    "total_depth": 1999.67,
+    "sampled_bases": 386353,
+    "sampled_depth": 1000.91
+  },
+  "nCoV-2019_72_pool2": {
+    "start": 21659,
+    "end": 22038,
+    "total_mapped_bases": 2705247,
+    "total_depth": 7119.07,
+    "sampled_bases": 380102,
+    "sampled_depth": 1000.27
+  },
+  "nCoV-2019_73_pool1": {
+    "start": 21962,
+    "end": 22346,
+    "total_mapped_bases": 1926519,
+    "total_depth": 5003.95,
+    "sampled_bases": 385012,
+    "sampled_depth": 1000.03
+  },
+  "nCoV-2019_74_pool2": {
+    "start": 22263,
+    "end": 22650,
+    "total_mapped_bases": 121844,
+    "total_depth": 314.03,
+    "sampled_bases": 75430,
+    "sampled_depth": 194.41
+  },
+  "nCoV-2019_75_pool1": {
+    "start": 22517,
+    "end": 22903,
+    "total_mapped_bases": 2313015,
+    "total_depth": 5976.78,
+    "sampled_bases": 387252,
+    "sampled_depth": 1000.65
+  },
+  "nCoV-2019_76_pool2": {
+    "start": 22798,
+    "end": 23214,
+    "total_mapped_bases": 3009544,
+    "total_depth": 7217.13,
+    "sampled_bases": 417424,
+    "sampled_depth": 1001.02
+  },
+  "nCoV-2019_77_pool1": {
+    "start": 23123,
+    "end": 23522,
+    "total_mapped_bases": 3564291,
+    "total_depth": 8910.73,
+    "sampled_bases": 400361,
+    "sampled_depth": 1000.9
+  },
+  "nCoV-2019_78_pool2": {
+    "start": 23444,
+    "end": 23847,
+    "total_mapped_bases": 2236510,
+    "total_depth": 5535.92,
+    "sampled_bases": 404296,
+    "sampled_depth": 1000.73
+  },
+  "nCoV-2019_79_pool1": {
+    "start": 23790,
+    "end": 24169,
+    "total_mapped_bases": 2831689,
+    "total_depth": 7451.81,
+    "sampled_bases": 380490,
+    "sampled_depth": 1001.29
+  },
+  "nCoV-2019_80_pool2": {
+    "start": 24079,
+    "end": 24467,
+    "total_mapped_bases": 2695424,
+    "total_depth": 6929.11,
+    "sampled_bases": 389437,
+    "sampled_depth": 1001.12
+  },
+  "nCoV-2019_81_pool1": {
+    "start": 24392,
+    "end": 24789,
+    "total_mapped_bases": 2027009,
+    "total_depth": 5092.99,
+    "sampled_bases": 398356,
+    "sampled_depth": 1000.89
+  },
+  "nCoV-2019_82_pool2": {
+    "start": 24697,
+    "end": 25076,
+    "total_mapped_bases": 2393269,
+    "total_depth": 6298.08,
+    "sampled_bases": 380329,
+    "sampled_depth": 1000.87
+  },
+  "nCoV-2019_83_pool1": {
+    "start": 24979,
+    "end": 25369,
+    "total_mapped_bases": 2366931,
+    "total_depth": 6053.53,
+    "sampled_bases": 391336,
+    "sampled_depth": 1000.86
+  },
+  "nCoV-2019_84_pool2": {
+    "start": 25280,
+    "end": 25673,
+    "total_mapped_bases": 3356347,
+    "total_depth": 8518.65,
+    "sampled_bases": 394498,
+    "sampled_depth": 1001.26
+  },
+  "nCoV-2019_85_pool1": {
+    "start": 25602,
+    "end": 25994,
+    "total_mapped_bases": 2026688,
+    "total_depth": 5156.97,
+    "sampled_bases": 393455,
+    "sampled_depth": 1001.16
+  },
+  "nCoV-2019_86_pool2": {
+    "start": 25903,
+    "end": 26315,
+    "total_mapped_bases": 1969876,
+    "total_depth": 4769.68,
+    "sampled_bases": 413032,
+    "sampled_depth": 1000.08
+  },
+  "nCoV-2019_87_pool1": {
+    "start": 26198,
+    "end": 26590,
+    "total_mapped_bases": 2339507,
+    "total_depth": 5952.94,
+    "sampled_bases": 393118,
+    "sampled_depth": 1000.3
+  },
+  "nCoV-2019_88_pool2": {
+    "start": 26521,
+    "end": 26913,
+    "total_mapped_bases": 3463961,
+    "total_depth": 8814.15,
+    "sampled_bases": 393580,
+    "sampled_depth": 1001.48
+  },
+  "nCoV-2019_89_pool1": {
+    "start": 26836,
+    "end": 27227,
+    "total_mapped_bases": 1832890,
+    "total_depth": 4675.74,
+    "sampled_bases": 392324,
+    "sampled_depth": 1000.83
+  },
+  "nCoV-2019_90_pool2": {
+    "start": 27142,
+    "end": 27533,
+    "total_mapped_bases": 3760510,
+    "total_depth": 9593.14,
+    "sampled_bases": 392403,
+    "sampled_depth": 1001.03
+  },
+  "nCoV-2019_91_pool1": {
+    "start": 27447,
+    "end": 27854,
+    "total_mapped_bases": 634515,
+    "total_depth": 1555.18,
+    "sampled_bases": 408253,
+    "sampled_depth": 1000.62
+  },
+  "nCoV-2019_92_pool2": {
+    "start": 27785,
+    "end": 28172,
+    "total_mapped_bases": 1769532,
+    "total_depth": 4560.65,
+    "sampled_bases": 388132,
+    "sampled_depth": 1000.34
+  },
+  "nCoV-2019_93_pool1": {
+    "start": 28082,
+    "end": 28464,
+    "total_mapped_bases": 3335763,
+    "total_depth": 8709.56,
+    "sampled_bases": 383311,
+    "sampled_depth": 1000.81
+  },
+  "nCoV-2019_94_pool2": {
+    "start": 28395,
+    "end": 28779,
+    "total_mapped_bases": 1954829,
+    "total_depth": 5077.48,
+    "sampled_bases": 385030,
+    "sampled_depth": 1000.08
+  },
+  "nCoV-2019_95_pool1": {
+    "start": 28678,
+    "end": 29063,
+    "total_mapped_bases": 1427666,
+    "total_depth": 3698.62,
+    "sampled_bases": 386533,
+    "sampled_depth": 1001.38
+  },
+  "nCoV-2019_96_pool2": {
+    "start": 28986,
+    "end": 29378,
+    "total_mapped_bases": 2569920,
+    "total_depth": 6539.24,
+    "sampled_bases": 393318,
+    "sampled_depth": 1000.81
+  },
+  "nCoV-2019_97_pool1": {
+    "start": 29289,
+    "end": 29693,
+    "total_mapped_bases": 974063,
+    "total_depth": 2405.09,
+    "sampled_bases": 405562,
+    "sampled_depth": 1001.39
+  },
+  "nCoV-2019_98_pool2": {
+    "start": 29487,
+    "end": 29866,
+    "total_mapped_bases": 280996,
+    "total_depth": 739.46,
+    "sampled_bases": 280306,
+    "sampled_depth": 737.65
+  }
+}

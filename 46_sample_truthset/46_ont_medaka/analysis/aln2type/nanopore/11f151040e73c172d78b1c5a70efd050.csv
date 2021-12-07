@@ -1,0 +1,3 @@
+sample_id,phe-label,unique-id,status,mutation-ref-calls,mutation-mixed-calls,mutation-calls,indel-ref-calls,indel-calls,no-calls,no-calls-deletion
+fcbb5a2c-98d3-49e5-bf73-10d570ad6b36/ARTIC/medaka,E484K,harbor-sprite,confirmed,0,0,1,0,0,0,0
+fcbb5a2c-98d3-49e5-bf73-10d570ad6b36/ARTIC/medaka,VOC-21JAN-02,slinky-antennae,confirmed,0,0,14,0,1,1,0
