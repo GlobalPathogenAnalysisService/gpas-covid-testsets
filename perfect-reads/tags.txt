@@ -1,0 +1,10 @@
+University_of_Oxford
+Positive_control
+Good_quality
+Poor_quality
+Negative_control
+Batch_passed_neg_ctrl
+Batch_failed_neg_ctrl
+HPRU
+BRC_Covid
+GPAS_OxUni
