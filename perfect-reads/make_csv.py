@@ -31,6 +31,8 @@ if __name__ == "__main__":
         file_list = glob.glob('*.fastq.gz')
         file_extensions = ['.fastq.gz']
 
+    print(header)
+    
     def build_rest_of_line():
         rest_of_line = options.organisation+','
         if options.number_of_tags==0:
@@ -58,9 +60,15 @@ if __name__ == "__main__":
 
     for i in file_list:
 
-        filename=i.split('.fastq.gz')[0]
-
-        lineage=i.split('_')[0]
+        if options.tech=='Illumina':
+            filename=i.split('_1.fastq.gz')[0]
+        else:            
+            filename=i.split('.fastq.gz')[0]
+            
+        if '_' in filename:
+            lineage=i.split('_')[0]
+        else:
+            lineage=filename
 
         uid=str(uuid.uuid4())
 
